@@ -1,4 +1,4 @@
-# practice-2020-kuznechik
+# kuznechik-mgm128
 Эффективная реализация алгоритма шифрования «Кузнечик» в режиме MGM
 для архитектур x86_64 и arm-v8. [Описание режима](https://tools.ietf.org/html/draft-smyshlyaev-mgm-08).
 ### Компиляция
